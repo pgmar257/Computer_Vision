@@ -8,7 +8,7 @@ Además, se reproduce una alarma sonora utilizando la biblioteca winsound. Esto 
 
 El proyecto está desarrollado en Python y hace uso de las siguientes librerías:
 
-- Fue realizado principalmente con las siguientes librerías:
+
 - ![](https://img.shields.io/badge/OpenCV%20-8A2BE2) Se utiliza para el procesamiento de imágenes y la detección de movimiento en tiempo real.
 - ![](https://img.shields.io/badge/Smtplib%20-8A2BE2) Se utiliza para el envío de correos electrónicos con el video que muestra el movimiento detectado.
 - ![](https://img.shields.io/badge/Winsound%20-8A2BE2) Se utiliza para generar una alarma sonora cuando se detecta movimiento.
