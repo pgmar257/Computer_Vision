@@ -19,13 +19,13 @@ recording = cv2.VideoWriter(
 # Parámetros de configuración del servidor de correo electrónico
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
-email_from = 'pgmar.257@gmail.com'
-email_to = 'paula.gm@hotmail.es'
+email_from = 'tu_email'
+email_to = 'email_destinatario'
 email_subject = 'Alerta de movimiento detectado'
 
 # Configuración de las credenciales de autenticación del servidor de correo
-smtp_username = 'pgmar.257@gmail.com'
-smtp_password = 'zuxyrqiijmlzkceg'
+smtp_username = 'tu_email'
+smtp_password = 'smtp_password'
 
 while True:
     _, cam = cap.read()
