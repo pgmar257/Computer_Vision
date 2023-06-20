@@ -2,5 +2,5 @@
 
 ![]()
 
-## Instalando OpenCV
+## Descripción
 
